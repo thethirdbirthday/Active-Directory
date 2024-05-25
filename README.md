@@ -8,7 +8,8 @@ In this home lab, we use Oracle Virtual Box to add new user accounts to a networ
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- Active Directory
+- Wiindows Server 2019
 
 <h2>Environments Used </h2>
 
