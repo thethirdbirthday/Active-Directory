@@ -7,7 +7,7 @@ In this home lab, we use Oracle Virtual Box to add new user accounts to a networ
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
+- PowerShell
 - Active Directory
 - Wiindows Server 2019
 
