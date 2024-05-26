@@ -17,14 +17,6 @@ In this home lab, we use Oracle Virtual Box to simulate adding new user accounts
  
 <h2>Program walk-through:</h2>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="[[(https://imgur.com/a/Apl1XNl)](https://imgur.com/a/fd-kU7qD8W)](https://imgur.com/a/fd-kU7qD8W)" height="80%" width="80%" alt="Launch VM"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://imgur.com/a/dP8EQDg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 <br />
 Enter the number of passes: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
