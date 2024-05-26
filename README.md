@@ -22,8 +22,8 @@ Create Domain Controller: <br/>
 <img src="https://github.com/thethirdbirthday/Active-Directory/blob/6c7a8c425a4ad37ac90788a08732228f3e5bf11b/ad_1.PNG" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Active Directory"/>
+Destinguish home internet and internal network:  <br/>
+<img src="https://github.com/thethirdbirthday/Active-Directory/blob/8e11fbd13f3c7f92931649f6af4e0a81fe6129e2/ad_2.PNG" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
