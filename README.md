@@ -31,7 +31,7 @@ Add roles - Domain Services:  <br/>
 <br />
 <br />
 Create Users with PowerShell Script:  <br/>
-<img src="(https://github.com/thethirdbirthday/Active-Directory/blob/38450070c8b55da60fb7d6030b146afb7ead7185/ad_39.PNG)" height="80%" width="80%" alt="Active Directory"/>
+<img src="https://github.com/thethirdbirthday/Active-Directory/blob/38450070c8b55da60fb7d6030b146afb7ead7185/ad_39.PNG" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
