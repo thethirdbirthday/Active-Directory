@@ -34,8 +34,8 @@ Create Users with PowerShell Script:  <br/>
 <img src="https://github.com/thethirdbirthday/Active-Directory/blob/38450070c8b55da60fb7d6030b146afb7ead7185/ad_39.PNG" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Active Directory"/>
+Create a second VM connected only to internal network:  <br/>
+<img src="https://github.com/thethirdbirthday/Active-Directory/blob/526843839ad02511e6ed99c83c8740c835c988b5/ad_46.PNG" height="80%" width="80%" alt="Active Directory"/>
 </p>
 
 <!--
