@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this home lab, we use Oracle Virtual Box to add new user accounts to a network and connecting said users to the internet through a domain controller in Active Directory. Configuring and running this lab will help develop our understanding of Active Directory and Windows networking. 
+In this home lab, we use Oracle Virtual Box to simulate adding new user accounts to a network and connecting said users to the internet through a domain controller in Active Directory. Configuring and running this lab will help develop our understanding of Active Directory and Windows networking. 
 </b>
 
 <h2>Languages and Utilities Used</h2>
@@ -19,7 +19,7 @@ In this home lab, we use Oracle Virtual Box to add new user accounts to a networ
 
 <p align="center">
 Launch the utility: <br/>
-<img src="[(https://imgur.com/a/Apl1XNl)](https://imgur.com/a/fd-kU7qD8W)" height="80%" width="80%" alt="Launch VM"/>
+<img src="[[(https://imgur.com/a/Apl1XNl)](https://imgur.com/a/fd-kU7qD8W)](https://imgur.com/a/fd-kU7qD8W)" height="80%" width="80%" alt="Launch VM"/>
 <br />
 <br />
 Select the disk:  <br/>
