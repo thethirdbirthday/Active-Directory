@@ -9,10 +9,12 @@ In this home lab, we use Oracle Virtual Box to add new user accounts to a networ
 
 - PowerShell
 - Active Directory
-- Wiindows Server 2019
 
 <h2>Environments Used </h2>
 
+ - Windows 10
+ - Server 2019
+   
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
