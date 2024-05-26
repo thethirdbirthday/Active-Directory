@@ -26,8 +26,8 @@ Destinguish home internet and internal network:  <br/>
 <img src="https://github.com/thethirdbirthday/Active-Directory/blob/8e11fbd13f3c7f92931649f6af4e0a81fe6129e2/ad_2.PNG" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Active Directory"/>
+Add roles - Domain Services:  <br/>
+<img src="https://github.com/thethirdbirthday/Active-Directory/blob/c56f4168b394a8ee4a9b3f5a7b3cf970400eb2ca/ad_3.PNG" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
 Sanitization complete:  <br/>
