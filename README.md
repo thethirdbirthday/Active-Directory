@@ -30,6 +30,10 @@ Add roles - Domain Services:  <br/>
 <img src="https://github.com/thethirdbirthday/Active-Directory/blob/c56f4168b394a8ee4a9b3f5a7b3cf970400eb2ca/ad_3.PNG" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
+Set scope of DHCP:  <br/>
+<img src="https://github.com/thethirdbirthday/Active-Directory/blob/09c3e5ab3206ffd6c4f1bf0df7dcb9bc02be1298/ad_35.PNG" height="80%" width="80%" alt="Active Directory"/>
+<br />
+<br />
 Create Users with PowerShell Script:  <br/>
 <img src="https://github.com/thethirdbirthday/Active-Directory/blob/38450070c8b55da60fb7d6030b146afb7ead7185/ad_39.PNG" height="80%" width="80%" alt="Active Directory"/>
 <br />
