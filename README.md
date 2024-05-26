@@ -19,7 +19,7 @@ In this home lab, we use Oracle Virtual Box to simulate adding new user accounts
 
 <br />
 Create Domain Controller: <br/>
-<img src="https://imgur.com/W5YBhrL" height="80%" width="80%" alt="Active Directory"/>
+<img src="[https://imgur.com/W5YBhrL](https://github.com/thethirdbirthday/Active-Directory/blob/6c7a8c425a4ad37ac90788a08732228f3e5bf11b/ad_1.PNG)" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
 Confirm your selection:  <br/>
