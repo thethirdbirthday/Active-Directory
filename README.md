@@ -19,11 +19,11 @@ In this home lab, we use Oracle Virtual Box to add new user accounts to a networ
 
 <p align="center">
 Launch the utility: <br/>
-<img src="(https://imgur.com/a/Apl1XNl)" height="80%" width="80%" alt="Launch VM"/>
+<img src="[(https://imgur.com/a/Apl1XNl)](https://imgur.com/a/fd-kU7qD8W)" height="80%" width="80%" alt="Launch VM"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/dP8EQDg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
