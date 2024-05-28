@@ -15,12 +15,12 @@ The iPod classic is a neat device that is the ideal music playback companion, ev
 <h2>Program walk-through:</h2>
 
 <br />
-Pop open the iPod with a plastic tool (sans can be done with a pliable clip, as I have here): <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/6c7a8c425a4ad37ac90788a08732228f3e5bf11b/ad_1.PNG" height="80%" width="80%" alt="Active Directory"/>
+Taking inventory: <br/>
+<img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/c90c5e97bf88c29a5afde0829a416bc45beb0fa3/images/IMG_1132.jpg" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
-Destinguish home internet and internal network:  <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/8e11fbd13f3c7f92931649f6af4e0a81fe6129e2/ad_2.PNG" height="80%" width="80%" alt="Active Directory"/>
+Popping the iPod open, sans a tool, I used a box cutter clip:  <br/>
+<img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/c90c5e97bf88c29a5afde0829a416bc45beb0fa3/images/IMG_1134.jpg" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
 Add roles - Domain Services:  <br/>
