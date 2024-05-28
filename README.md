@@ -1,24 +1,21 @@
-<h1>Active Directory Home Lab</h1>
+<h1>iPod 5th Gen Mod</h1>
 
 
 <h2>Description</h2>
-In this home lab, we use Oracle Virtual Box to adding new user accounts to an internal network and connecting said users to the internet through a domain controller in Active Directory. Configuring and running this lab will help develop our understanding of Active Directory and Windows networking. When correctly executed, our users will have an IP address within the scope we set for the DHCP server.
+The iPod classic is a neat device that is the ideal music playback companion, even today. Here, I will be restoring a thrifted 5th generation 30gb model. The 5th generation models are recommended as they are the easiest to open and have the most third-party accessories available. The unit is functional, but can only hold a charge for 5 minutes. I will be replacing the battery with a fresh unit and upgrading the clunky 30gb HDD with a lighter 64 gb Compact Flash drive. Bid adieu to subscription services, and let's get into it! 
 </b>
 
 <h2>Languages and Utilities Used</h2>
 
-- PowerShell
-- Active Directory
-
-<h2>Environments Used </h2>
-
- - Windows 10
- - Server 2019
+- iPod 5th gen 30gb 
+- 650 mAh battery (those with 60gb and 80gb models can opt for a bigger battery)  
+- 64 gb Compact Flash drive
+- Compact Flash adapter
  
 <h2>Program walk-through:</h2>
 
 <br />
-Create Domain Controller: <br/>
+Pop open the iPod with a plastic tool (sans can be done with a pliable clip, as I have here): <br/>
 <img src="https://github.com/thethirdbirthday/Active-Directory/blob/6c7a8c425a4ad37ac90788a08732228f3e5bf11b/ad_1.PNG" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
