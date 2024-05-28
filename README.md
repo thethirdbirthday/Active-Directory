@@ -31,7 +31,7 @@ HDD's are slow and have many moving parts susceptible to damage. Promptly dispos
 <img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/c90c5e97bf88c29a5afde0829a416bc45beb0fa3/images/IMG_1137.jpg" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
-The CF drive is a perfect fit!:  <br/>
+The CF drive is a perfect fit:  <br/>
 <img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/c90c5e97bf88c29a5afde0829a416bc45beb0fa3/images/IMG_1141.jpg" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
