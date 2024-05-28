@@ -19,24 +19,27 @@ Taking inventory: <br/>
 <img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/c90c5e97bf88c29a5afde0829a416bc45beb0fa3/images/IMG_1132.jpg" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
-Popping the iPod open, sans a tool, I used a box cutter clip:  <br/>
+Popping the iPod open. Sans a tool, I used a box cutter clip:  <br/>
 <img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/c90c5e97bf88c29a5afde0829a416bc45beb0fa3/images/IMG_1134.jpg" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
-Add roles - Domain Services:  <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/c56f4168b394a8ee4a9b3f5a7b3cf970400eb2ca/ad_3.PNG" height="80%" width="80%" alt="Active Directory"/>
+Carefully detaching the zif connectors, we now have our two halves:  <br/>
+<img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/c90c5e97bf88c29a5afde0829a416bc45beb0fa3/images/IMG_1136.jpg" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
-Set DHCP scope:  <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/09c3e5ab3206ffd6c4f1bf0df7dcb9bc02be1298/ad_35.PNG" height="80%" width="80%" alt="Active Directory"/>
+HDD's are slow and have many moving parts susceptible to damage. Promptly disposing this one:  <br/>
+<img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/c90c5e97bf88c29a5afde0829a416bc45beb0fa3/images/IMG_1137.jpg" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
-Create Users with PowerShell Script:  <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/38450070c8b55da60fb7d6030b146afb7ead7185/ad_39.PNG" height="80%" width="80%" alt="Active Directory"/>
+The CF drive is a perfect fit!:  <br/>
+<img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/c90c5e97bf88c29a5afde0829a416bc45beb0fa3/images/IMG_1141.jpg" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
-Create a second VM connected only to internal network:  <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/526843839ad02511e6ed99c83c8740c835c988b5/ad_46.PNG" height="80%" width="80%" alt="Active Directory"/>
+Replacing the battery:  <br/>
+<img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/c90c5e97bf88c29a5afde0829a416bc45beb0fa3/images/IMG_1139.jpg" height="80%" width="80%" alt="Active Directory"/>
+Reassembly after successful installation:  <br/>
+<img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/c90c5e97bf88c29a5afde0829a416bc45beb0fa3/images/IMG_1143.jpg" height="80%" width="80%" alt="Active Directory"/>
+<br />
 </p>
 
 <!--
