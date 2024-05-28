@@ -5,14 +5,14 @@
 The iPod classic is a neat device that is the ideal music playback companion, even today. Here, I will be restoring a thrifted 5th generation 30gb model. The 5th generation models are recommended as they are the easiest to open and have the most third-party accessories available. The unit is functional, but can only hold a charge for 5 minutes. I will be replacing the battery with a fresh unit and upgrading the clunky 30gb HDD with a lighter 64 gb Compact Flash drive. Bid adieu to subscription services, and let's get into it! 
 </b>
 
-<h2>Languages and Utilities Used</h2>
+<h2>Materials Used</h2>
 
 - iPod 5th gen 30gb 
 - 650 mAh battery (those with 60gb and 80gb models can opt for a bigger battery)  
 - 64 gb Compact Flash drive
 - Compact Flash adapter
  
-<h2>Program walk-through:</h2>
+<h2>Walk-through:</h2>
 
 <br />
 Taking inventory: <br/>
