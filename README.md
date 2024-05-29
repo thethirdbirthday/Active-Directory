@@ -1,46 +1,50 @@
-<h1>Active Directory Home Lab</h1>
+<h1>JActive Directory Home Lab</h1>
 
 
 <h2>Description</h2>
-The iPod classic is a neat device that is the ideal music playback companion, even today. Here, I will be restoring a thrifted 5th generation 30gb model. The 5th generation models are recommended as they are the easiest to open and have the most third-party accessories available. The unit is functional, but can only hold a charge for 5 minutes. I will be replacing the battery with a fresh unit and upgrading the clunky 30gb HDD with a lighter 64 gb Compact Flash drive. Bid adieu to subscription services, and let's get into it! 
-</b>
+Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+<br />
 
-<h2>Materials Used</h2>
 
-- iPod 5th gen 30gb 
-- 650 mAh battery (those with 60gb and 80gb models can opt for a bigger battery)  
-- 64 gb Compact Flash drive
-- Compact Flash adapter
- 
-<h2>Walk-through:</h2>
+<h2>Languages and Utilities Used</h2>
 
-<br />
-Taking inventory: <br/>
-<img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/c90c5e97bf88c29a5afde0829a416bc45beb0fa3/images/IMG_1132.jpg" height="80%" width="80%" alt="Active Directory"/>
-<br />
-<br />
-Popping the iPod open. Sans a tool, I used a box cutter clip:  <br/>
-<img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/c90c5e97bf88c29a5afde0829a416bc45beb0fa3/images/IMG_1134.jpg" height="80%" width="80%" alt="Active Directory"/>
-<br />
-<br />
-Carefully detaching the zif connectors, we now have our two halves:  <br/>
-<img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/c90c5e97bf88c29a5afde0829a416bc45beb0fa3/images/IMG_1136.jpg" height="80%" width="80%" alt="Active Directory"/>
-<br />
-<br />
-HDD's are slow and have many moving parts susceptible to damage. Promptly disposing this one:  <br/>
-<img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/c90c5e97bf88c29a5afde0829a416bc45beb0fa3/images/IMG_1137.jpg" height="80%" width="80%" alt="Active Directory"/>
+- <b>PowerShell</b> 
+- <b>Oracle VirtualBox</b>
+
+<h2>Environments Used </h2>
+
+- <b>Windows 10</b>
+- <b>Server 2019</b>
+
+<h2>Program walk-through:</h2>
+
+<p align="center">
+Create a Domain Controller VM in Virtual Box: <br/>
+<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2e1a4e95db718910d63a04508dfda34b9c1a4962/ad_1.PNG" height="80%" width="80%" alt="Active Directory Home Lab Steps"/>
 <br />
 <br />
-The CF drive is a perfect fit:  <br >
-<img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/c90c5e97bf88c29a5afde0829a416bc45beb0fa3/images/IMG_1141.jpg" height="80%" width="80%" alt="Active Directory"/>
+Select the disk:  <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Replacing the battery:  <br />
-<img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/c90c5e97bf88c29a5afde0829a416bc45beb0fa3/images/IMG_1139.jpg" height="80%" width="80%" alt="Active Directory"/>
+Enter the number of passes: <br/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Reassembly after successful installation:  <br/>
-<img src="https://github.com/thethirdbirthday/iPod-5th-Gen-Mod/blob/c90c5e97bf88c29a5afde0829a416bc45beb0fa3/images/IMG_1143.jpg" height="80%" width="80%" alt="Active Directory"/>
+Confirm your selection:  <br/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Sanitization complete:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
