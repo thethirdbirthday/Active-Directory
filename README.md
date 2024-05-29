@@ -23,28 +23,26 @@ Create a Domain Controller VM in Virtual Box: <br/>
 <img src="https://github.com/thethirdbirthday/Active-Directory/blob/2e1a4e95db718910d63a04508dfda34b9c1a4962/ad_1.PNG" height="80%" width="80%" alt="Active Directory Home Lab Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+With Server 2019 installed, distinguish home internet from internal network :  <br/>
+<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2f651b816539a522e124434c158652ce7092b1a6/ad_2.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add roles - Domain Services: <br/>
+<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2f651b816539a522e124434c158652ce7092b1a6/ad_3.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set the scope of domain addresses to be assigned to new users:  <br/>
+<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2f651b816539a522e124434c158652ce7092b1a6/ad_35.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create new users using PowerShell script:  <br/>
+<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2f651b816539a522e124434c158652ce7092b1a6/ad_39.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Connect second Client VM solely to internal network:  <br/>
+<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2f651b816539a522e124434c158652ce7092b1a6/ad_46.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
