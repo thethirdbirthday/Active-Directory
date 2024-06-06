@@ -1,4 +1,4 @@
-<h1>Active Directory Home Lab</h1>
+<h1>Functions/Variables Problem Set</h1>
 
 
 <h2>Description</h2>
@@ -6,51 +6,10 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2></h2>Indoor Voice
 
-- <b>PowerShell</b> 
-- <b>Oracle VirtualBox</b>
+WRITING IN ALL CAPS IS LIKE YELLING.
 
-<h2>Environments Used </h2>
+Best to use your “indoor voice” sometimes, writing entirely in lowercase.
 
-- <b>Windows 10</b>
-- <b>Server 2019</b>
-
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Create a Domain Controller VM in Virtual Box: <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2e1a4e95db718910d63a04508dfda34b9c1a4962/ad_1.PNG" height="80%" width="80%" alt="Active Directory Home Lab Steps"/>
-<br />
-<br />
-With Server 2019 installed, distinguish home internet from internal network :  <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2f651b816539a522e124434c158652ce7092b1a6/ad_2.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Add roles - Domain Services: <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2f651b816539a522e124434c158652ce7092b1a6/ad_3.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Set the scope of domain addresses to be assigned to new users:  <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2f651b816539a522e124434c158652ce7092b1a6/ad_35.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Create new users using PowerShell script:  <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2f651b816539a522e124434c158652ce7092b1a6/ad_39.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Connect second Client VM solely to internal network:  <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2f651b816539a522e124434c158652ce7092b1a6/ad_46.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-</p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+In a file called indoor.py, implement a program in Python that prompts the user for input and then outputs that same input in lowercase. Punctuation and whitespace should be outputted unchanged. You’re welcome, but not required, to prompt the user explicitly, as by passing a str of your own as an argument to input.
