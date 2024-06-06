@@ -6,7 +6,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <br />
 
 
-<h2></h2>Indoor Voice
+<h2>Indoor Voice</h2>
 
 WRITING IN ALL CAPS IS LIKE YELLING.
 
