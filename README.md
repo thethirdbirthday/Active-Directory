@@ -43,8 +43,8 @@ Create client VM connected only to internal network :  <br/>
 <img src="https://github.com/thethirdbirthday/Active-Directory/blob/3d1348440261b9f3aeda47158482a7c1f5d75ad0/ad_46.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Client account will be automatically provided an address within DHCP:  <br/>
+<img src="https://github.com/thethirdbirthday/Active-Directory/blob/6213365fb54b9b32adfe5fd92645ef47120e44d9/ad_homelab_outline.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
