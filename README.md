@@ -47,8 +47,8 @@ Create client VM connected only to internal network :  <br/>
 <img src="https://github.com/thethirdbirthday/Active-Directory/blob/3d1348440261b9f3aeda47158482a7c1f5d75ad0/ad_46.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Client account will be automatically provided an address within DHCP:  <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/6213365fb54b9b32adfe5fd92645ef47120e44d9/ad_homelab_outline.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Client IP address and default gateway will correspond with Domain Controller and DHCP:  <br/>
+<img src="https://github.com/thethirdbirthday/Active-Directory/blob/47ace6440a066e877a41d6d52b784fe84556f4ad/images/ad_usercomplete.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
