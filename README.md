@@ -9,7 +9,7 @@ Projet involves using Oracle Virtual Box to create a VM Domain Controller to con
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Active Directory/b>
+- <b>Active Directory</b>
 
 <h2>Environments Used </h2>
 
