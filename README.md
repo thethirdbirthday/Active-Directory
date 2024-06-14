@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Projet involves using Oracle VirtualBox to create a private network that allows new users to connect to the internet with a DHCP provided IP address through NAT. We will create a Domain Controller on one VM to connect a client on a second VM to the internet. A PowerShell script is used to create a bulk of user accounts. New users can be simply be created and added manually, as well. 
+Projet involves using Oracle VirtualBox to create a private network that allows new users a DHCP provided IP address to connect to the internet through NAT.A PowerShell script is used to create a bulk of user accounts. New users can also be simply be created and added manually. Great hands-on experience that demonstrates concepts in networking and even cyber security. 
 <br />
 
 
