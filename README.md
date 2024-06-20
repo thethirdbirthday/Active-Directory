@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project involves using Oracle VirtualBox to create VM domain controller and users in a private network. DHCP, NAT, and AD Domain services will be set up to provide users IP addresses and grant internet access through a Domain Controller rather than external internet. A PowerShell script is used to create a bulk of user accounts. Alternatively, new users can also be be created and added manually. This is great hands-on experience that demonstrates concepts in networking, as well as identity management.  
+Project involves using Oracle VirtualBox to create domain controller and client in a private network. DHCP, NAT, and AD Domain services will be set up to provide users IP addresses and grant internet access through a Domain Controller rather than external internet. A PowerShell script is used to create a bulk of user accounts. Alternatively, new users can also be be created and added manually. This is great hands-on experience that demonstrates concepts in networking, as well as identity management.  
 <br />
 
 
@@ -10,7 +10,7 @@ Project involves using Oracle VirtualBox to create VM domain controller and user
 
 - <b>Active Directory</b>
 - <b>PowerShell</b>
-- <b> Oracle Virtual Box </b>
+- <b>Oracle Virtual Box</b>
 
 <h2>Environments Used </h2>
 
